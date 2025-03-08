@@ -1,7 +1,100 @@
 # United Nations International Days
-233 International Days are observed by the United Nations according to their [website](https://www.un.org/en/observances/list-days-weeks)
+221 International Days, 11 International Weeks and 1 International "Time" are observed by the United Nations according to their [website](https://www.un.org/en/observances/list-days-weeks)
 This project will provide the complete set in a format which can be imported into generic calendar applications.
-# Stats
+
+## Language Days
+UN has 6 official languages:  **Chinese, English** (British English with Oxford spelling)**, French, Russian, Spanish** and (Modern Standard) **Arabic**. Each have its own **language day**.
+
+**Portuguese** and **Swahili** have **language days** and Translations of *UN News Website* available. 
+
+**Hindi** and **Urdu** have translations but **no** language day.
+
+there are 9 language days:
+
+1. International **Mother Language** Day, 21 February (in 1952, date Bengalis of the then-Pakistani province of East Bengal fought for recognition of **Bengali language** as Official Central State Languages instead of Provincial Language)
+2. **French Language** Day, 20 Mar (signing of the Niamey Convention in 1970 which established the precursor of *International Organization of La **Francophonie***)
+3. **Chinese Language** Day, 20 Apr (to pay tribute to *Cāngjié*=倉頡=仓颉)
+4. **English Language** Day, 23 April (birthday of *William Shakespeare* in 1564)
+5. **Spanish Language** Day, 23 April (death of *Miguel de Cervantes* in 1616)
+6. World **Portuguese Language** Day, 5 May (*Community of **Portuguese Language** Countries(CPLP)* established in 2009 )
+7. **Russian Language** Day, 06 Jun (birthday of *Alexander Pushkin*)
+8. World **Kiswahili Language** Day, 7 July (date *Julius Nyerere* adopted the **Swahili Language** as a unifying language for independence struggles)
+9. **Arabic Language** Day, 18 Dec (UN General Assembly designated **Modern Standard Arabic(MSA)** as one of official languages in 1973)
+
+## Health Related Days
+### Global health days and weeks
+according to [WHO](https://www.who.int/campaigns) there 11 days and 2 weeks, 
+1. World **Neglected Tropical Diseases** Day, 30 January (several events, such as the launch of the first NTD road map and London Declaration on NTDs in 2012; and the launch of 2021 NTD road map)
+1. World **Tuberculosis(TB)** Day, 24 March (1882 when Dr. *Robert Koch* announced that he had discovered the bacterium that causes TB)
+1. World Health Day, 7 April (founding of WHO in 1948)
+1. World **Chagas Diseases** Day, 14 April
+1. World Immunization Week, 24-30 April
+1. World **Malaria** Day, 25 April
+1. World No Tobacco Day, 31 May
+1. World Blood Donor Day, 14 June (in 1868 birth of *Karl Landsteiner*, who was awarded the Nobel Prize for discovery of ABO blood group system)
+1. World Drowning Prevention Day, 25 July
+1. World **Hepatitis** Day, 28 July (birth of Dr Baruch Blumberg, who discovered hepatitis B virus(HBV))
+1. World **AIDS** Day, 1 December (sufficiently long following the US elections but before the Christmas holidays)
+1. World Patient Safety Day, 17 September
+1. World Antimicrobial Resistance(AMR) Awareness Week 18-24 November
+### other health days
+not listed by WHO
+1. World Down Syndrome Day, 21 March
+1. World Autism Awareness Day, 2 April
+1. World Day for Safety and Health at Work	28 Apr
+1. International Day of Plant Health	12 May
+1. International Albinism Awareness Day, 13 June
+1. World **Duchenne** Awareness Day, 7 September
+1. World Mental Health Day, 10 October
+1. International Universal Health Coverage Day	12 Dec
+
+## Sports related Days
+1. International Day of Sport for Development and Peace, 6 April
+1. World Football Day, 25 May (first international football tournament in during Paris 1924 summer Olympic games)
+1. World Basketball Day, 21 December (Basketball played for the first time in 1891 after its invention)
+
+## gendered Days
+there are no days for lgbtq+ or men, nor are there gender-neutral equivalent of these dates
+1. International Day of Women and Girls in Science, 11 Feb
+2. International Women's Day, 8 Mar
+3. International Day of Women Judges, 10 Mar
+1. International Girls in ICT Day, 24 Apr
+4. International Widows' Day, 23 Jun
+5. International Day of Women in Diplomacy, 24 Jun
+6. International Day of Women and Girls of African Descent, 25 Jul
+7. International Day of the Girl Child, 11 Oct
+8. International Day of Rural Women, 15 Oct
+8. International Day for the Elimination of Violence against Women, 25 Nov
+
+## Victim Days
+1. International Day of Commemoration in Memory of the Victims of the Holocaust, 27 January (liberation of the Auschwitz concentration camp by the Red Army in 1945)
+1. International Day for the Right to the Truth concerning Gross Human Rights Violations and for the Dignity of Victims, 24 March (Archbishop *Monsignor Óscar Arnulfo Romero* murdered in 1980 after denouncing violations of the human rights in El Salvador)
+1. International Day of Remembrance of the Victims of Slavery and the Transatlantic Slave Trade, 25 March (the U.K.'s *Abolition of the Slave Trade Act* passed in 1807)
+1. International Day of Solidarity with Detained and Missing Staff Members, 25 March
+1. International Day of Innocent Children Victims of Aggression, 4 June (1982 Israeli cabinet authorized a large scale invasion of Lebanon)
+1. United Nations International Day in Support of Victims of Torture, 26 June (1945 UN Charter was signed; 1987 [Convention Against Torture](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-against-torture-and-other-cruel-inhuman-or-degrading) came into effect)
+1. International Day of Remembrance and Tribute to the Victims of Terrorism, 21 August
+1. International Day Commemorating the Victims of Acts of Violence Based on Religion or Belief, 22 August
+1. International Day of the Victims of Enforced Disappearances, 30 August
+1. World Day of Remembrance for Road Traffic Victims, 17 November
+1. World Day for the Prevention of and Healing from Child Sexual Exploitation, Abuse and Violence, 18 November
+1. International Day of Solidarity with the Palestinian People, 29 November
+1. Day of Remembrance for all Victims of Chemical Warfare, 30 November
+1. International Day of Commemoration and Dignity of the Victims of the Crime of Genocide and of the Prevention of this Crime, 9 December
+## nature related days
+1. World Wildlife Day, 3 March
+1. World Day for Glaciers, 21 March
+1. International Day of Forests, 21 March
+### animal days
+1. International Day of the Arabian Leopard, 10 February
+1. World Seagrass Day, 1 March
+1. World Migratory Bird Day, Second Saturday in May and October
+1. International Day of the Marchkhor, 24 May
+1. World Migratory Bird Day [UNEP], 10 May
+1. World Bee Day, 20 May
+
+### plant days
+1. World Pulses Day, 10 February
 
 ## International Weeks
 1. World Interfaith Harmony Week 1-7 February
@@ -16,7 +109,10 @@ This project will provide the complete set in a format which can be imported int
 0. International Week of Science and Peace, 9-15 November
 1.  World Antimicrobial Resistance Awareness Week, 18-24 November [WHO]
 
+# Special Cases
 ## Movable Dates
+ 1. International Day of Nowruz, new year of Iranian Calendar (20-21 March)here uses [this](https://www.iranchamber.com/calendar/converter/iranian_calendar_converter.php)
+ 1. World Migratory Bird Day, Second Saturday in May and October
  1. Vesak, **Full moon** in May (differs by country, here uses [Thai calendar](https://www.myhora.com/ปฏิทิน/), [UN site](https://www.un.org/en/observances/list-days-weeks) list as 23 May)
  1. International Day of Cooperatives, **first Saturday** in July(1-7 Jul)
  1. World Maritime Day, **last Thursday** in September(24-30 Sep)
@@ -25,31 +121,75 @@ This project will provide the complete set in a format which can be imported int
  1. World Day of Remembrance for Road Traffic Victims, **third Sunday** in November(15-21 Nov)
 
 ## other
- World Statistics Day, 20 October, **every 5 years** (divisible by 5)
+
+*  World Statistics Day, 20 October, **every 5 years** (divisible by 5)
+ * **Time** of Remembrance and Reconciliation for Those Who Lost Their Lives During the Second World War, 8-9 May(surrender of Nazi Germany 1945), only event to not have word "day" or "week"
+
+# Stats
+*days* = international days. *weeks* = international weeks. *events* = *days* or *weeks*.
+
+### shortest *event* name:
+1. **World Bee Day**, 20 May (*Anton Janša*, the pioneer of beekeeping, baptized in 1734): 13 characters 
+2.  14 characters
+    * **World Tuna Day**, 2 May
+    * **World Lake Day**, 27 August
+    * **World Post Day**, 9 October (founding of the Universal Postal Union (UPU) in 1874)
+    * **World Food Day**, 16 October (founding of the United Nations Food and Agriculture Organization in 1945)
+    * **World AIDS Day**, 1 December
+    * **World Soil Day**, 5 December
+3. 15 characters
+    * **World Radio Day**, 13 February (United Nations established the whole concept of the United Nations Radio, in 1946)
+    * **World Water Day**, 22 March
+    * **World Chess Day**, 20 July (International Chess Federation (FIDE) was founded, in 1924)
+4. 16 characters
+    * **World Pulses Day**, 10 February
+    * **World Poetry Day**, 21 March
+    * **World Health Day**, 7 April
+    * **World Oceans Day**, 8 June
+    * **World Cotton Day**, 7 October
+    * **World Cities Day**, 31 October
+    * **World Toilet Day**, 19 November
+5. 17 characters
+    * **World Braille Day**, 4 January
+    * **World Malaria Day**, 25 April
+    * **World Bicycle Day**, 3 June
+    * **World Refugee Day**, 20 June
+    * **World Cleanup Day**, 20 September
+    * **World Tourism Day**, 27 September
+    * **World Habitat Day**, 6 October
 
 
-*days* = international days. *events* = international days/weeks.
 
- date with most *events*: **21 March** with 6 international days and 1 international week
-1. World Day for Glaciers (A/RES/77/158)
-2. Week of Solidarity with the Peoples Struggling against Racism and Racial Discrimination, 21-27 March (A/RES/34/24)
-3. International Day for the Elimination of Racial Discrimination (A/RES/2142 (XXI))
-4. International Day of Forests (A/RES/67/200)
-5. World Poetry Day [UNESCO] (30 C/Resolution 29)
-6. International Day of Nowruz (A/RES/64/253)
-7. World Down Syndrome Day (A/RES/66/149) 
+### longest *event* name: 
+1. **International Day of Commemoration and Dignity of the Victims of the Crime of Genocide and of the Prevention of this Crime**, 9 December (adoption of Genocide Convention 1948): 122 characters
+2. **International Day for the Right to the Truth concerning Gross Human Rights Violations and for the Dignity of Victims**, 24 March (Archbishop *Monsignor Óscar Arnulfo Romero* murdered in 1980 after denouncing violations of the human rights in El Salvador): 116 characters
+3. **International Day for the Prevention of and Fight against All Forms of Transnational Organized Crime**, 15 November(): 100 characters
+4. **Time of Remembrance and Reconciliation for Those Who Lost Their Lives During the Second World War**, 8 May: 97 characters
+5. **International Day for Preventing the Exploitation of the Environment in War and Armed Conflict**, 6 November: 94 characters
 
-most consective dates with *days*: **10-21 June**, 12 days
+
+### date with most *events*: 
+**21 March** with 6 international days and 1 international week
+1. World Day for Glaciers
+2. Week of Solidarity with the Peoples Struggling against Racism and Racial Discrimination, 21-27 March
+3. International Day for the Elimination of Racial Discrimination
+4. International Day of Forests
+5. World Poetry Day [UNESCO]
+6. International Day of Nowruz
+7. World Down Syndrome Day
+
+### consecutive dates
+most consecutive dates with *days*: **10-21 June**, 12 days
 
 most consecutive dates with *events*: **9-26 November**, 18 days
 
-most consective dates with *days* allowing 1 day breaks: **29 May - 30 June**(4 breaks) and **15 September - 17 October**(5 breaks), 33 days(tie)
+most consecutive dates with *days* allowing 1 day breaks: **29 May - 30 June**(4 breaks) and **15 September - 17 October**(5 breaks), 33 days(tie)
 
-most consective dates with  day or *events* allowing 1 day breaks: **19 May - 30 June**(4 breaks), 42 days
+most consecutive dates with *events* allowing 1 day breaks: **19 May - 30 June**(4 breaks), 42 days
 
-most consective dates without international day or *events*: **5-23 January**, 19 days
+most consecutive dates without *events*: **5-23 January**, 19 days
 
-most consective dates with >1 *days* per date: **23-26 April**, 4 days
+most consecutive dates with >1 *days* per date: **23-26 April**, 4 days
 
 ## Summary Table
 |   mo | wk |  mv | 1 | 2 | 3 |  4 |  5 | 6 |  7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |  20  | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |  dsum | dcnt  |  wsum | wdif | wcnt | mo  |
