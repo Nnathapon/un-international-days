@@ -11,7 +11,7 @@ UN has 6 official languages:  **Chinese, English** (British English with Oxford 
 
 there are 9 language days:
 
-1. International **Mother Language** Day, 21 February (in 1952, date Bengalis of the then-Pakistani province of East Bengal fought for recognition of **Bengali language** as Official Central State Languages instead of Provincial Language)
+1. International **Mother Language** Day, 21 February (in 1952, Bengalis of the then-Pakistani province of East Bengal fought for recognition of **Bengali language** as Official Central State Languages instead of Provincial Language)
 2. **French Language** Day, 20 Mar (signing of the Niamey Convention in 1970 which established the precursor of *International Organization of La **Francophonie***)
 3. **Chinese Language** Day, 20 Apr (to pay tribute to *Cāngjié*=倉頡=仓颉)
 4. **English Language** Day, 23 April (birthday of *William Shakespeare* in 1564)
@@ -19,6 +19,8 @@ there are 9 language days:
 6. World **Portuguese Language** Day, 5 May (*Community of **Portuguese Language** Countries(CPLP)* established in 2009 )
 7. **Russian Language** Day, 06 Jun (birthday of *Alexander Pushkin*)
 8. World **Kiswahili Language** Day, 7 July (date *Julius Nyerere* adopted the **Swahili Language** as a unifying language for independence struggles)
+1. International Day of **Sign Languages**, 23 September (*World Federation of the Deaf(WFD)* was established in 1951)
+1. International Translation Day, 30 September (feast of *St. Jerome*, the Bible translator)
 9. **Arabic Language** Day, 18 Dec (UN General Assembly designated **Modern Standard Arabic(MSA)** as one of official languages in 1973)
 
 ## Health Related Days
@@ -42,11 +44,13 @@ not listed by WHO
 1. World Down Syndrome Day, 21 March
 1. World Autism Awareness Day, 2 April
 1. World Day for Safety and Health at Work	28 Apr
-1. International Day of Plant Health	12 May
+1. International Day to End Obstetric Fistula, 23 May
 1. International Albinism Awareness Day, 13 June
 1. World **Duchenne** Awareness Day, 7 September
 1. World Mental Health Day, 10 October
+1. World **Diabetes** Day, 14 November
 1. International Universal Health Coverage Day	12 Dec
+1. International Day of Epidemic Preparedness, 27 December
 
 ## Sports related Days
 1. International Day of Sport for Development and Peace, 6 April
@@ -65,6 +69,8 @@ there are no days for lgbtq+ or men, nor are there gender-neutral equivalent of 
 7. International Day of the Girl Child, 11 Oct
 8. International Day of Rural Women, 15 Oct
 8. International Day for the Elimination of Violence against Women, 25 Nov
+date that implied gender
+1. International Equal Pay Day, 18 September
 
 ## Victim Days
 1. International Day of Commemoration in Memory of the Victims of the Holocaust, 27 January (liberation of the Auschwitz concentration camp by the Red Army in 1945)
@@ -76,7 +82,7 @@ there are no days for lgbtq+ or men, nor are there gender-neutral equivalent of 
 1. International Day of Remembrance and Tribute to the Victims of Terrorism, 21 August
 1. International Day Commemorating the Victims of Acts of Violence Based on Religion or Belief, 22 August
 1. International Day of the Victims of Enforced Disappearances, 30 August
-1. World Day of Remembrance for Road Traffic Victims, 17 November
+1. World Day of Remembrance for Road Traffic Victims, third Sunday November
 1. World Day for the Prevention of and Healing from Child Sexual Exploitation, Abuse and Violence, 18 November
 1. International Day of Solidarity with the Palestinian People, 29 November
 1. Day of Remembrance for all Victims of Chemical Warfare, 30 November
@@ -85,16 +91,38 @@ there are no days for lgbtq+ or men, nor are there gender-neutral equivalent of 
 1. World Wildlife Day, 3 March
 1. World Day for Glaciers, 21 March
 1. International Day of Forests, 21 March
+1. World Water Day, 22 March
+1. International Mother Earth Day, 22 April
+1. International Day of Light [UNESCO], 16 May
+1. International Day for Biological Diversity, 22 May
+1. World Environment Day, 5 June
+1. World Oceans Day, 8 June
+1. International Day of the Tropics, 29 June
+1. International Day of Combating Sand and Dust Storms, 12 July
+1. World Lake Day, 27 August
+1. International Day of Clean Air for Blue Skies, 7 September
+1. International Day for the Preservation of the Ozone Layer, 16 September
+1. World Habitat Day, 6 October
+1. World Tsunami Awareness Day, 5 November
+### space
+1. International Asteroid Day, 30 June
+1. International Moon Day, 20 July
 ### animal days
 1. International Day of the Arabian Leopard, 10 February
 1. World Seagrass Day, 1 March
+1. World Tuna Day, 2 May
 1. World Migratory Bird Day, Second Saturday in May and October
-1. International Day of the Marchkhor, 24 May
-1. World Migratory Bird Day [UNEP], 10 May
 1. World Bee Day, 20 May
+1. International Day of the Marchkhor, 24 May
+1. International Day of the Snow Leopard, 23 October
 
 ### plant days
 1. World Pulses Day, 10 February
+1. International Day of Argania, 10 May
+1. International Day of Plant Health [FAO], 12 May
+1. International Tea Day, 21 May
+1. International Day of Potato, 30 May
+1. World Cotton Day, 7 October
 
 ## International Weeks
 1. World Interfaith Harmony Week 1-7 February
@@ -111,7 +139,7 @@ there are no days for lgbtq+ or men, nor are there gender-neutral equivalent of 
 
 # Special Cases
 ## Movable Dates
- 1. International Day of Nowruz, new year of Iranian Calendar (20-21 March)here uses [this](https://www.iranchamber.com/calendar/converter/iranian_calendar_converter.php)
+ 1. International Day of Nowruz,[21 March](https://docs.un.org/en/A/RES/64/253), but nowruz (new year of Iranian Calendar) movable(20-21 March) uses [this](https://www.iranchamber.com/calendar/converter/iranian_calendar_converter.php) ()
  1. World Migratory Bird Day, Second Saturday in May and October
  1. Vesak, **Full moon** in May (differs by country, here uses [Thai calendar](https://www.myhora.com/ปฏิทิน/), [UN site](https://www.un.org/en/observances/list-days-weeks) list as 23 May)
  1. International Day of Cooperatives, **first Saturday** in July(1-7 Jul)
@@ -157,8 +185,6 @@ there are no days for lgbtq+ or men, nor are there gender-neutral equivalent of 
     * **World Cleanup Day**, 20 September
     * **World Tourism Day**, 27 September
     * **World Habitat Day**, 6 October
-
-
 
 ### longest *event* name: 
 1. **International Day of Commemoration and Dignity of the Victims of the Crime of Genocide and of the Prevention of this Crime**, 9 December (adoption of Genocide Convention 1948): 122 characters
